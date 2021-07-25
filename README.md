@@ -1,4 +1,10 @@
-# controllab2
+# Signal Flow Graph
+Providing graphical interface, Drawing the signal flow graph showing nodes, branches, gains, … ,Listing all forward paths, individual loops, all combination of n non-touching loops and Overall system transfer function.
+
+- team of 8
+
+*for more information about the program and how to run you can check the pdf file "signalFlowGraph".*
+
 
 ## Project setup
 ```
